@@ -2,7 +2,7 @@ import requests
 import json
 
 # API endpoint URL
-API_URL = "https://524s7qlw0b.execute-api.us-east-2.amazonaws.com/dev/customer"  # Assuming the endpoint for a single user is '/user'
+API_URL = "https://udmqfurfie.execute-api.us-east-2.amazonaws.com/dev/customer"  # Assuming the endpoint for a single user is '/user'
 
 # Sample user data
 users_data = [

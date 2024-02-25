@@ -9,7 +9,7 @@ DB_NAME = "TaxiAggregator"
 SERVICE_AREA_COLLECTION = "service_areas"
 
 # Constants
-API_ENDPOINT = "https://524s7qlw0b.execute-api.us-east-2.amazonaws.com/dev/taxis"
+API_ENDPOINT = "https://udmqfurfie.execute-api.us-east-2.amazonaws.com/dev/taxis"
 TAXI_TYPES = ["Luxury", "Basic", "Deluxe"]
 NUM_TAXIS = 50
 

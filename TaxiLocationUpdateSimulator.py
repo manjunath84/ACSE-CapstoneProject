@@ -28,6 +28,7 @@ def update_taxi_locations():
         collection.update_one({'_id': taxi['_id']}, {'$set': {'location': new_location}})
 
 def main():
+    num_taxis = 50  # Number of taxis to simulate
     update_interval = 60  # Update interval in seconds
 
     while True:
